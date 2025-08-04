@@ -1,0 +1,27 @@
+*** Creating Trace Output File 'project.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"delay.o"'
+### List of Objects: adding '"dml.o"'
+### List of Objects: adding '"i2c.o"'
+### List of Objects: adding '"i2c_eeprom.o"'
+### List of Objects: adding '"lcd.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"uart_init.o"'
+### List of Objects: adding '"sipo.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "delay.o" "dml.o" "i2c.o" "i2c_eeprom.o" "lcd.o" "main.o" "uart_init.o" "sipo.o" --strict --scatter "project.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\project.map" -o "project.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'project.axf'
+### ADS-LD Command File: 'project.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'project.lnp', Handle=0x00000308
+### Writing '.lnp' file
+### ADS-LD Command file 'project.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

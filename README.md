@@ -112,6 +112,8 @@ Submit a pull request and be a part of making this project even better! 😊
 Let's keep sharing messages, wirelessly and smartly! 🖥️📲🚀
 
 🎓 Developed by: *Veeranjaneyulu Vaddineni* 
-🏫 Major Project  
+
+🏫 Major Project
+
 🎯 Tech: LPC2148, Embedded C, 8*8 LED Matrix, HC-05(Bluetooth), AT24C256(EEPROM).
 
